@@ -24,7 +24,7 @@ Hi, I’m @Ansharma21<br>Tech Enthusiast<br>I’m currently studying Mechatronic
 
 
 ### LEETCARD 
-![](https://leetcard.jacoblin.cool/bloody_binary21?theme=dark&font=Chivo&ext=heatmap)
+![](https://leetcard.jacoblin.cool/bloody_binary21?theme=dark&font=Chivo&ext=contest)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ansharma21&icon=0&color=0)](https://visitcount.itsvg.in)
