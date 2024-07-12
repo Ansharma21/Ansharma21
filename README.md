@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Hi, I’m @Ansharma21<br>Tech Enthusiast<br>I’m currently studying Mechatronics and Automation Engineering in Indian Institute of Information Technology Bhagalpur<br>I’m currently learning DSA and Web Development<br>📫 Reach me at ansharma2109@gmail.com
+Hi, I’m Ansh Sharma21<br>Tech Enthusiast<br>I’m currently pursing my B.Tech from Indian Institute of Information Technology Bhagalpur<br>I’m currently learning DSA and Web Development<br>📫 Reach me at ansharma2109@gmail.com
 
 
 ## 🌐 Socials:
